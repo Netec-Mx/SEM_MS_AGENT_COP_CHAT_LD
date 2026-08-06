@@ -1,3 +1,5 @@
+<img src="images/neteclogo (2).png" alt="logo" width="300"/>
+
 # Aprovecha los agentes de Microsoft 365 Copilot para potenciar tu productividad
 
 Los participantes conocerán cómo los agentes de Microsoft 365 Copilot amplían las capacidades de la inteligencia artificial para apoyar actividades de análisis, investigación, generación de ideas, redacción y mejora de prompts. Asimismo, aprenderán a crear agentes personalizados mediante Agent Builder, comprendiendo sus principales componentes y las mejores prácticas para adaptar Microsoft 365 Copilot a las necesidades de distintas áreas de la organización.
@@ -20,8 +22,12 @@ Los participantes conocerán cómo los agentes de Microsoft 365 Copilot amplían
   - Descripción: Creación demostrativa de un agente personalizado con Agent Builder mediante lenguaje natural y configuración manual, explicando sus componentes, la personalización de su comportamiento y su adaptación a necesidades específicas de distintas áreas de la organización.
   - Duración estimada: 30 min
 
-## Flujo de colaboración
+  ---
 
-- Trabajar en `changes_course`.
-- Crear Pull Request hacia `main`.
-- Merge por `Squash and merge`.
+## 📬 **Contacto y más información**
+
+Si tienes alguna pregunta o necesitas más detalles, no dudes en [contactarnos](mailto:soporte@netec.com). También puedes encontrar más recursos en nuestra [página](https://netec.com).
+
+---
+
+¡Gracias por visitar nuestra plataforma! No olvides revisar todos los laboratorios y comenzar tu viaje de aprendizaje hoy mismo.
